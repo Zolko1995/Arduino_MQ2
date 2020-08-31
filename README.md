@@ -4,7 +4,7 @@
 
 Heres's an image of the circuit
 
-![MQ2_circuit] (circuit.png)
+![MQ2_circuit](circuit.png)
 
 - [X] Arduino
 - [X] Git
